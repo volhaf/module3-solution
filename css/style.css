@@ -1,36 +1,19 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
-  .container-fluid {
-    background-color: rgb(187, 187, 177);
-  }
-  .navbar-toggler {
-    background-color: #fff;
-  }
-  .section {
-    margin-top: 50px;
-    margin-bottom: 40px;
-    background-color: rgb(187, 187, 177);
 
+  .section {
+    background-color: rgb(187, 187, 177);
   }
+
+  
   .chicken {
-    text-align: center;
-    color: black;
     font-size: 125%;
     font-weight: bold;
   }
   .beef {
-    text-align: center;
-    color: black;
     font-size: 125%;
     font-weight: bold;
 
   }
   .sushi {
-    text-align: center;
-    color: black;
     font-size: 125%;
     font-weight: bold;
   }
